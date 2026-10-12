@@ -37,6 +37,7 @@ b{color:var(--ink);font-weight:700}
 .btn.outline{background:transparent;border-color:#fff;color:#fff}
 .btn.outline:hover{background:#fff;color:var(--ink)}
 .cta{display:flex;gap:1rem;flex-wrap:wrap}
+.btn[href="#contact"]{color:#fff}
 
 /* hero */
 .hero{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(300px,1fr);gap:clamp(2rem,5vw,4.5rem);align-items:center;
